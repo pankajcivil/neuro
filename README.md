@@ -17,6 +17,7 @@
 ### Books
 
 * [Book List MIT-Press](https://mitpress.mit.edu/category/series/computational-neuroscience)
+* [Principle of Brain Dynamics - read Online](http://cognet.mit.edu/book/principles-of-brain-dynamics)
 
 |   |   |   |   |
 | --- | --- | --- | --- |
