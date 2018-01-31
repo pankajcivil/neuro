@@ -3,4 +3,5 @@
 
 
 ### Computational Neuroscience Resources:
-1. https://github.com/ConscioX/Computational-Neuroscience-UW
+* [Spike Decisions and Actions](http://www.cvr.yorku.ca/webpages/spikes.pdf) [Python-Notebooks](https://github.com/Ddfulton/neuroscience-notebooks)
+* [Computational-Neuroscience-UW](https://github.com/ConscioX/Computational-Neuroscience-UW)
