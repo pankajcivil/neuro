@@ -22,7 +22,7 @@
 
 |   |   |   |   |
 | --- | --- | --- | --- |
-|<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9JfuZrUaqE_Hg01qsct5WY700NmeFqH8AlrwKVaTJMX5dJp2K" width="25" height="25" /> | <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9JfuZrUaqE_Hg01qsct5WY700NmeFqH8AlrwKVaTJMX5dJp2K" width="25" height="25" />  |<img src = "https://blog.sollers.edu/hs-fs/hubfs/ImgOptimize/Deep%20Learning%20790.jpg?t=1508581759159&width=781&height=521&name=Deep%20Learning%20790.jpg" width="25" height="25" /> | <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9JfuZrUaqE_Hg01qsct5WY700NmeFqH8AlrwKVaTJMX5dJp2K" width="25" height="25" />   |  
+|<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9JfuZrUaqE_Hg01qsct5WY700NmeFqH8AlrwKVaTJMX5dJp2K" width="250" height="250" /> | <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9JfuZrUaqE_Hg01qsct5WY700NmeFqH8AlrwKVaTJMX5dJp2K" width="250" height="250" />  |<img src = "https://blog.sollers.edu/hs-fs/hubfs/ImgOptimize/Deep%20Learning%20790.jpg?t=1508581759159&width=781&height=521&name=Deep%20Learning%20790.jpg" width="250" height="250" /> | <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9JfuZrUaqE_Hg01qsct5WY700NmeFqH8AlrwKVaTJMX5dJp2K" width="250" height="250" />   |  
 
 
 
