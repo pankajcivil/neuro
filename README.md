@@ -20,7 +20,7 @@
 
 |   |   |   |   |
 | --- | --- | --- | --- |
-|<img src = "https://images-na.ssl-images-amazon.com/images/I/51FJ5q-6IiL._SX350_BO1,204,203,200_.jpg" width="250" height="250" /> | <img src = "https://mitpress.mit.edu/sites/default/files/imagecache/booklist_default/9780262514200.jpg" width="250" height="250" />  |<img src = "https://mitpress.mit.edu/sites/default/files/imagecache/booklist_default/9780262541855.jpg" width="250" height="250" /> | <img src = "https://mitpress.mit.edu/sites/default/files/imagecache/booklist_default/9780262028615.jpg" width="250" height="250" />   |  
+|<img src = "https://images-na.ssl-images-amazon.com/images/I/51FJ5q-6IiL._SX350_BO1,204,203,200_.jpg" width="200" height="250" /> | <img src = "https://mitpress.mit.edu/sites/default/files/imagecache/booklist_default/9780262514200.jpg" width="200" height="250" />  |<img src = "https://mitpress.mit.edu/sites/default/files/imagecache/booklist_default/9780262541855.jpg" width="200" height="250" /> | <img src = "https://mitpress.mit.edu/sites/default/files/imagecache/booklist_default/9780262028615.jpg" width="200" height="250" />   |  
 
 
 
