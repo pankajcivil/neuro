@@ -7,6 +7,9 @@
 * [Spike Decisions and Actions](http://www.cvr.yorku.ca/webpages/spikes.pdf) [Python-Notebooks](https://github.com/Ddfulton/neuroscience-notebooks), [Online-Book](http://www.gbv.de/dms/ilmenau/toc/268832722.PDF)
 * [Dynamical Systems in Neuroscience:The Geometry of Excitability and Bursting- Online Book](http://www.gbv.de/dms/ilmenau/toc/268832722.PDF) 
 * [Principle of Brain Dynamics - read Online](http://cognet.mit.edu/book/principles-of-brain-dynamics)
+* [Fundamental Of Computational Neuroscience -Online Book](http://cbcis.ttu.edu/ep/old_netra_site/papers/restricted/Phill_Book/chapter_01_fundamentals.pdf)
+
+
 
 -----------------------
 
@@ -35,6 +38,7 @@
 |   |   |   |   |
 | --- | --- | --- | --- |
 |<img src = "https://mitpress.mit.edu/sites/default/files/imagecache/booklist_default/9780262541855.jpg" width="200" height="250" /> | <img src = "https://mitpress.mit.edu/sites/default/files/imagecache/booklist_default/9780262028615.jpg" width="200" height="250" />| 
+|<img src = "https://images-na.ssl-images-amazon.com/images/I/51dGnJ63TaL._SX382_BO1,204,203,200_.jpg" width="200" height="250" /> | <img src = "https://images-na.ssl-images-amazon.com/images/I/51-18jerSdL._SX327_BO1,204,203,200_.jpg" width="200" height="250" />| 
 |<img src = "https://mitpress.mit.edu/sites/default/files/imagecache/booklist_default/9780262034968_1.jpg" width="200" height="250" /> | <img src = "https://mitpress.mit.edu/sites/default/files/imagecache/booklist_default/9780262034722.jpg" width="200" height="250" />  |<img src = "https://mitpress.mit.edu/sites/default/files/imagecache/booklist_default/9780262013277.jpg" width="200" height="250" />|
 |<img src = "https://mitpress.mit.edu/sites/default/files/imagecache/booklist_default/9780262550604.jpg" width="200" height="250" /> | <img src = "https://mitpress.mit.edu/sites/default/files/imagecache/booklist_default/9780262650601.jpg" width="200" height="250" />  |<img src = "https://mitpress.mit.edu/sites/default/files/imagecache/booklist_default/9780262681087.jpg" width="200" height="250" /> | <img src = "https://mitpress.mit.edu/sites/default/files/imagecache/booklist_default/9780262193566.jpg" width="200" height="250" />|  
 
