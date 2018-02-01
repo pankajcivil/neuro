@@ -4,8 +4,9 @@
 ------------------
 
 ### Computational Neuroscience Resources:
-* [Spike Decisions and Actions](http://www.cvr.yorku.ca/webpages/spikes.pdf) [Python-Notebooks](https://github.com/Ddfulton/neuroscience-notebooks)
+* [Spike Decisions and Actions](http://www.cvr.yorku.ca/webpages/spikes.pdf) [Python-Notebooks](https://github.com/Ddfulton/neuroscience-notebooks), [Online-Book](http://www.gbv.de/dms/ilmenau/toc/268832722.PDF)
 * [Computational-Neuroscience-UW](https://github.com/ConscioX/Computational-Neuroscience-UW)
+* [Spikes, decisions, and actions- Online Book](http://www.gbv.de/dms/ilmenau/toc/268832722.PDF) 
 
 -----------------------
 
