@@ -1,4 +1,7 @@
 
+
+
+
 %Postsynaptic potential propagation in a passive dendrite
 whitebg('w');
 clear all;
@@ -39,3 +42,7 @@ figure(2), F2 = plot(TT, PSPtme, 'r-'); xlabel('Time in ms'); ylabel('Potential 
 set(F2, 'LineWidth', 2);
 PSPmax = max(PSPtme)
 MeanPSP = mean(PSPtme)
+
+
+
+
